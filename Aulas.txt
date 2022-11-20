@@ -1,0 +1,14 @@
+GLI x CLI
+
+Windows
+
+-CD
+-DIR
+-MKDIR
+-DEL (Só remove o conteúdo do diretório sem remover o diretório
+-DEL /RMDIR /S /D - Nâo questiona e repassa para as subpastas.
+
+Unix
+-CD
+-LS OU CONTROL + L
+-RM -RF REMOVE DE FORMA RECURSIVA  E FORÇADA
